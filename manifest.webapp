@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "name": "stateful-play",
-  "description": "A template with the bare minimum structure",
+  "description": "Keep track of your progress through a playlist",
   "launch_path": "/index.html",
   "icons": {
     "16": "/img/icons/icon16x16.png",
@@ -10,8 +10,8 @@
     "128": "/img/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Your name",
-    "url": "http://example.com"
+    "name": "Daan van Berkel",
+    "url": "http://dvberkel.nl"
   },
   "type": "privileged",
   "permissions": {},
