@@ -19,9 +19,9 @@
     "*"
   ],
   "locales": {
-    "es": {
-      "name": "Aplicación vacía privilegiada",
-      "description": "Una plantilla con la mínima estructura",
+    "nl": {
+      "name": "stateful-play",
+      "description": "Onthoud waar je bent gebleven",
       "permissions": {}
     }
   },
